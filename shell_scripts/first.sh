@@ -7,11 +7,10 @@
 #echo $HOME
 #echo $PWD
 #### User Defined variables ###
-# User Defined variables can be drfined in capital also
+# User Defined variables can be written in capital also
 # variable name should not be start with number
 name=Ankit
 age=22
 age=24 # changing the value of variable
 echo Hi my Name is $name
 echo I am $age years old
-
