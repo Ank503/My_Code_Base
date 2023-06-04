@@ -9,4 +9,3 @@ args=("$@")
 echo ${args[0]} ${args[1]} ${args[2]}
 #echo $@ #prints the name of all arguments passed
 #echo $# #Number of arguments passed
-
