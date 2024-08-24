@@ -11,9 +11,9 @@ int main()
     int age;
     char sex,ms,x;
     printf("Enter the age sex and ms:\n");
-    scanf("%d %c %c ",&age,&sex,&ms);
+    scanf("%d %c %c",&age,&sex,&ms);
     
-    //printf("%d%c%c",age,sex,ms);
+    //printf("%d%c%c",age,sex,ms);/*while taking character as input put space between %c*/
     if(ms=='m')
         printf("Driver will be insured");
     else
