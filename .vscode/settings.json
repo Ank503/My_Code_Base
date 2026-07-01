@@ -1,5 +1,0 @@
-{
-    "git.enabled": true,
-    "git.enableSmartCommit": false,
-    "explorer.excludeGitIgnore": false
-}
